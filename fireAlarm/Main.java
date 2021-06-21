@@ -13,7 +13,10 @@ public class Main {
 
         JFrame frame = new homePage("Home Page");
         frame.setVisible(true);
-
+//        while (frame == true){
+//             this.lblTxtValue.setText(Double.toString(Users.state));
+//             Thread.sleep(1000);
+//        }
 
 
 

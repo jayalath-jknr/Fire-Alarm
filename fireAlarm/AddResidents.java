@@ -18,7 +18,7 @@ public class AddResidents extends JFrame{
         this.setContentPane(panelResidents);
         this.pack();
 
-//
+////
 //        btnChange.addActionListener(new ActionListener() {
 //            @Override
 //            public void actionPerformed(ActionEvent e) {
@@ -31,6 +31,9 @@ public class AddResidents extends JFrame{
 //            public void actionPerformed(ActionEvent e) {
 //                String name = textName.getText();
 //                String email = textEmail.getText();
+//                Users user = new Resident();
+//                user.userName = name;
+//            }
 //        });
     }
 }

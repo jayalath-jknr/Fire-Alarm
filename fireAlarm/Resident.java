@@ -15,7 +15,7 @@ public class Resident implements Users {
 
     @Override
     public void notifyObserver(String news, Double state) {
-        System.out.println("Reading the news paper  : "+ news+" :"+state);
+        System.out.println("Evacuate premises "+ news+" :"+state);
     }
 
 

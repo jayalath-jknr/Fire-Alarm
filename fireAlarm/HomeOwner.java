@@ -9,7 +9,7 @@ public class HomeOwner implements Users {
 
     @Override
     public void notifyObserver(String news, Double state) {
-        System.out.println("Wrap the foods using the news paper  :"+ news+" :"+state);
+        System.out.println("Contact fire brigade  :"+ news+" :"+state);
     }
 
 //    private String email;
